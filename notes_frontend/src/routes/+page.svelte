@@ -22,7 +22,8 @@
 	</h1>
 
 	<h2>
-		try editing <strong>src/routes/+page.svelte</strong>
+		Simple Notes App — 
+		<a class="notes-link" href="/notes" aria-label="Go to Notes">Open your Notes &rarr;</a>
 	</h2>
 
 	<Counter />
